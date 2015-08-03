@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>gantt</artifactId>
-    <version>3.3.0</version>
+    <version>3.3.1-SNAPSHOT</version>
     <name>dhtmlxGantt</name>
     <description>WebJar for dhtmlxGantt</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/gantt</url>
         <connection>scm:git:https://github.com/webjars/gantt.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/gantt.git</developerConnection>
-        <tag>gantt-3.3.0</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
